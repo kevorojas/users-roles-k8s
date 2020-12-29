@@ -233,4 +233,4 @@ kubectl --kubeconfig=/home/Your local user/.kube/config-kevo -n example get pods
 
 ## Link video de Youtube
 
-[usuarios y  roles kubernetes]()
+[usuarios y  roles kubernetes](https://youtu.be/68WE6-IoMPw)
